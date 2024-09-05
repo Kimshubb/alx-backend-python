@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Type annotated add function
 def add(a: float, b: float) -> float:
     """
     Add two float numbers and return their sum as a float.
@@ -11,4 +12,3 @@ def add(a: float, b: float) -> float:
     float: The sum of the two numbers.
     """
     return a + b
-
