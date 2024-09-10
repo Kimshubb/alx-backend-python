@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-#function that given an iterable of sequences, returns a list of tuples.
+"""function that given an iterable of sequences, returns a list of tuples.
+"""
 
 from typing import Iterable, Sequence, List, Tuple
 

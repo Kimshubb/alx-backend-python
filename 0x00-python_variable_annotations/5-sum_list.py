@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-#takes a list of floats as args and returns a their sum as float
+"""takes a list of floats as args and returns a their sum as float
+"""
+
 from typing import List
 
 def sum_list(input_list: List[float]) -> float:

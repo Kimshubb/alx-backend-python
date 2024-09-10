@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-#concat two strings of type str
+"""concat two strings of type str
+"""
+
 def concat(str1: str, str2, str) -> str:
     """
     Concatenate two strings and return the result as a string.
